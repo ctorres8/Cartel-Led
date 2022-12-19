@@ -20,3 +20,8 @@ Va a utilizar:
 * **Documentación:** Informe y manual técnico y de usuario del proyecto
 * **Proyecto_Nucleo_Kicad:** Esquemáticos y diseños de PCB
 * **Proyecto_STM32:** Código en C con las librerías utilzadas en el proyecto
+
+
+# Videos de funcionamiento
+En el siguiente link se pueden ver algunos videos cortos sobre el funcionamiento del cartel.
+Link: https://drive.google.com/drive/folders/1nYiywO-ZSkL0tqdU_d7GqGv7mtErooJ5?usp=share_link
