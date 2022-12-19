@@ -1,0 +1,2 @@
+../Core/Src/Bluetooth.c:19:6:f_comandos	112	static
+../Core/Src/Bluetooth.c:78:6:HAL_UARTEx_RxEventCallback	24	static,ignoring_inline_asm

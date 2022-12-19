@@ -1,0 +1,6 @@
+../Core/Src/RTC.c:20:6:Inicializar_RTC	8	static
+../Core/Src/RTC.c:33:6:Actualizar_FechaHora	16	static
+../Core/Src/RTC.c:43:6:RTC_SetFecha	24	static
+../Core/Src/RTC.c:57:6:RTC_SetHora	24	static
+../Core/Src/RTC.c:72:6:RTC_GetHora	8	static
+../Core/Src/RTC.c:77:6:RTC_GetFecha	8	static

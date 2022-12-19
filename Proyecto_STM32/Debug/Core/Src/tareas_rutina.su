@@ -1,0 +1,10 @@
+../Core/Src/tareas_rutina.c:35:6:tarea_bh1750	24	static
+../Core/Src/tareas_rutina.c:64:6:tarea_cartel	24	static
+../Core/Src/tareas_rutina.c:98:6:tarea_acciones_pulsador	120	static
+../Core/Src/tareas_rutina.c:170:6:tarea_uart	16	static
+../Core/Src/tareas_rutina.c:193:6:tarea_actualizarRTC	16	static
+../Core/Src/tareas_rutina.c:202:6:tarea_pulsador1	24	static
+../Core/Src/tareas_rutina.c:236:6:tarea_pulsador2	24	static
+../Core/Src/tareas_rutina.c:266:6:tarea_pulsador3	24	static
+../Core/Src/tareas_rutina.c:289:6:tarea_DHT11	32	static
+../Core/Src/tareas_rutina.c:314:6:tarea_sd	56	static

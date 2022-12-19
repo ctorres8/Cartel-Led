@@ -1,0 +1,6 @@
+../Core/Src/inicializaciones.c:30:6:inicializar_semaforos	8	static
+../Core/Src/inicializaciones.c:47:6:inicializar_cartel	8	static
+../Core/Src/inicializaciones.c:55:6:inicializar_BH1750	8	static
+../Core/Src/inicializaciones.c:61:6:inicializar_Matrix	8	static
+../Core/Src/inicializaciones.c:66:6:inicializar_perifericos	8	static
+../Core/Src/inicializaciones.c:78:6:inicializar_tareas	16	static
