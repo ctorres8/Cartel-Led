@@ -6,6 +6,9 @@ Va a utilizar:
 * **Bluetooh:** Para enviar y recibir mensajes
 * **SD:** Para recibir mensajes
 * **Sensores de luz y temperatura:** Para sensor la luz del ambiente y medir temperatura.
+* **RTC:** Reloj en tiempo real para tener la hora y fecha actual.
+* **4 Matrices LED 8X8:** Para observar la fecha,hora, temperatura y mensajes recibidos
+* **Teclado:** Para una comunicación manual con el cartel.
 
 *El proyecto se encuentra explicado de manera más informativo en el informe (Documentación->informe)* 
 
